@@ -1,17 +1,16 @@
 ## Adani Coding Challenge 
 Solution of the questions
 
-```
-1. Write a function to create a 2-D List/Array with random integers between 0 to 100. This function should take two arguments - numberOfRows and numberOfColumns and return 2D list.
 
-2. Write a function to sort the 2-D list based on column index keeping the rows intact. This function should take two arguments - 2D list created above and column Index and return sorted 2D list.
+1. Write a function to create a 2-D List/Array with random integers between 0 to 100. 
+This function should take two arguments - numberOfRows and numberOfColumns and return 2D list.
 
-
-```
+2. Write a function to sort the 2-D list based on column index keeping the rows intact. 
+This function should take two arguments - 2D list created above and column Index and return sorted 2D list.
 
 Output Sample
 ```
-PS C:\Users\Amit\Desktop\adani_assesment> cd "c:\Users\Amit\Desktop\adani_assesment\" ; if ($?) { g++ q1_q2_solution.cpp -o q1_q2_solution } ; if ($?) { .\q1_q2_solution }
+PS C:\Users\Amit\Desktop\adani_assesment> 
 
 Enter no of rows and no of cols with a space in b/w
 4 3
